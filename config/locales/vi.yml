@@ -12,9 +12,15 @@ vi:
   contact: "Liên Hệ"
   about: "Giới thiệu"
   and: "và"
-  sign_up: "Đăng ký"
-  sign_up_now: "Đăng ký ngay!"
   message_login: "Chào mừng bạn đến với Ứng dụng Mẫu!"
+  users: "Người dùng"
+  profile: "Hồ sơ"
+  settings: "Cài đặt"
+  log_out: "Đăng xuất"
+  account: "Tài khoản"
+  sign_up: "Tạo tài khoản"
+  sign_up_now: "Đăng ký ngay!"
+  new_user: "Tạo mới ?"
 
   # about text
   about_text_0: ""
@@ -47,3 +53,4 @@ vi:
   form_reppassworld: "Xác thực mật khẩu"
   form_button: "Tạo tài khoản"
   not_find_account: "Không có kết quả tìm kiếm"
+  remember_me: "Ghi nhớ tôi trên máy tính này"

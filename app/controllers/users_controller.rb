@@ -1,7 +1,6 @@
 class UsersController < ApplicationController
   def show
     return if @user = User.find_by(id: params[:id])
-
     flash[:warning] = t "not_find_account"
     redirect_to signup_path
   end
