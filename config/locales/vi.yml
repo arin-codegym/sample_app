@@ -1,0 +1,38 @@
+vi:
+  title:
+    title_404: "Trang bạn đang tìm kiếm không tồn tại (404)"
+    title_422: "Thay đổi bạn muốn đã bị từ chối (422)"
+    title_500: "Chúng tôi xin lỗi, nhưng đã xảy ra lỗi (500)"
+    main_title: "Ứng dụng mẫu"
+    base_title: "Ứng dụng mẫu - Ruby on Rails Tutorial"
+  sample: "Ứng dụng mẫu"
+  home: "Trang chủ"
+  help: "Trợ giúp"
+  login: "Đăng nhập"
+  contact: "Liên Hệ"
+  about: "Giới thiệu"
+  and: "và"
+  # about text
+  about_text_0: ""
+  about_text_1: "Hướng dẫn về Ruby ở Rails"
+  about_text_2: " một phần của "
+  about_text_3: " gia đình các hướng dẫn"
+  about_text_4: "là một"
+  about_text_4_link: "cuốn sách"
+  about_text_4_link0: "Học Đủ"
+  about_text_4_link1: "video truyền hình "
+  about_text_5: "để dạy phát triển web với"
+  about_text_5_link: "Ruby ở Rails"
+  about_text_6: "Đây là ứng dụng mẫu cho hướng dẫn."
+  #home page
+  sample_app:
+    sample_app_down_case: "Ứng dụng mẫu"
+    sample_app_up_case: "ỨNG DỤNG MẪU"
+  home_text_0: "Đây là trang chủ của"
+  home_text_1: "ứng dụng mẫu."
+  home_text_2: "Chào mừng đến với ứng dụng mẫu"
+  #help page
+  help_text_0: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+  help_text_1: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
+  help_link_0: " Phần trợ giúp của Rails Tutorial."
+  help_link_1: " Cuốn sách Hướng dẫn Ruby on Rails."
