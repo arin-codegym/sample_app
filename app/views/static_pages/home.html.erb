@@ -1,11 +1,11 @@
 <% provide(:title, "Home") %>
 <h1><%= t("sample_app.sample_app_down_case") %></h1>
 <div class="center jumbotron">
-  <h1><%= t("home_text_2") %></h1>
-  <h2>
-    <%= t("home_text_0") %>
-    <%= link_to t("about_text_1"), "https://www.railstutorial.org/" %>
-    sample application.
-  </h2>
-  <%= link_to "Sign up now!", '#', class: "btn btn-lg btn-primary" %>
+<h1><%= t("home_text_2") %></h1>
+<h2>
+  <%= t("home_text_0")%>
+  <%= link_to t("about_text_1"),"https://www.railstutorial.org/" %>
+  sample application.
+</h2>
+<%= link_to t("sign_up_now"), "#", class: "btn btn-lg btn-primary" %>
 </div>

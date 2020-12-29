@@ -36,6 +36,7 @@ en:
   login: "Login"
   about: "About"
   and: "and"
+  sign_up_now: "Sign up now!"
   #about page
   about_text_0: "The"
   about_text_1: "Ruby on Rails Tutorial"
