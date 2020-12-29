@@ -12,7 +12,10 @@ vi:
   contact: "Liên Hệ"
   about: "Giới thiệu"
   and: "và"
+  sign_up: "Đăng ký"
   sign_up_now: "Đăng ký ngay!"
+  message_login: "Chào mừng bạn đến với Ứng dụng Mẫu!"
+
   # about text
   about_text_0: ""
   about_text_1: "Hướng dẫn về Ruby ở Rails"
@@ -37,3 +40,10 @@ vi:
   help_text_1: "Để nhận trợ giúp về ứng dụng mẫu này, hãy xem"
   help_link_0: " Phần trợ giúp của Rails Tutorial."
   help_link_1: " Cuốn sách Hướng dẫn Ruby on Rails."
+  # form login
+  form_name: "Tên"
+  form_email: "Thư điện tử"
+  form_passworld: "Mật khẩu"
+  form_reppassworld: "Xác thực mật khẩu"
+  form_button: "Tạo tài khoản"
+  not_find_account: "Không có kết quả tìm kiếm"

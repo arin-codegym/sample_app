@@ -2,6 +2,6 @@ user:
   name:
     max_length: 50
   mail:
-    max_lenght: 255
+    max_length: 255
   password:
-    min_lenght: 8
+    min_length: 8

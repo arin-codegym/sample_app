@@ -36,7 +36,10 @@ en:
   login: "Login"
   about: "About"
   and: "and"
+  sign_up: "Signup"
   sign_up_now: "Sign up now!"
+  message_login: "Welcome to the Sample App!"
+
   #about page
   about_text_0: "The"
   about_text_1: "Ruby on Rails Tutorial"
@@ -61,3 +64,10 @@ en:
   help_text_1: "To get help on this sample app, see the"
   help_link_0: " Rails Tutorial help section."
   help_link_1: " Ruby on Rails Tutorial book."
+  # form login
+  form_name: "Name"
+  form_email: "Email"
+  form_passworld: "Password"
+  form_reppassworld: "Confirmation"
+  form_button: "Create my account"
+  not_find_account: "Can't find User"
