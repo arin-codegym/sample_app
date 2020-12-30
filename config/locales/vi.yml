@@ -12,6 +12,7 @@ vi:
   contact: "Liên Hệ"
   about: "Giới thiệu"
   and: "và"
+  sign_up_now: "Đăng ký ngay!"
   # about text
   about_text_0: ""
   about_text_1: "Hướng dẫn về Ruby ở Rails"
