@@ -36,9 +36,15 @@ en:
   login: "Login"
   about: "About"
   and: "and"
+  message_login: "Welcome to the Sample App!"
+  users: "Users"
+  profile: "Profile"
+  settings: "Settings"
+  log_out: "Log out"
+  account: "Account"
   sign_up: "Signup"
   sign_up_now: "Sign up now!"
-  message_login: "Welcome to the Sample App!"
+  new_user: "New User?"
 
   #about page
   about_text_0: "The"
