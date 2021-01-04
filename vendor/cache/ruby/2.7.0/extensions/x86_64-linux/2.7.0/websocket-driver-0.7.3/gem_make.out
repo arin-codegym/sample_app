@@ -1,0 +1,15 @@
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+/home/arin/.rvm/rubies/ruby-2.7.2/bin/ruby -I /home/arin/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210102-33877-186mmkn.rb extconf.rb
+creating Makefile
+
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.3/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20210102-33877-cs1umd

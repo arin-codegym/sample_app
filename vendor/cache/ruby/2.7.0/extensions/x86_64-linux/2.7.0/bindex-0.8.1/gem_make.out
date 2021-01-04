@@ -1,0 +1,15 @@
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/arin/.rvm/rubies/ruby-2.7.2/bin/ruby -I /home/arin/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210102-33877-1iawg7j.rb extconf.rb
+creating Makefile
+
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/arin/IdeaProjects/tool_itelliji/sample_app/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -m 0755 cruby.so ./.gem.20210102-33877-r8r48e/skiptrace/internal
