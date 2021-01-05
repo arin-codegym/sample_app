@@ -6,6 +6,7 @@
         <li><%= link_to t("home"), root_path %></li>
         <li><%= link_to t("help"), help_path %></li>
         <li><%= link_to t("about"), about_path %></li>
+        <li><%= link_to t("login"), login_path %></li>
         <li><%= link_to t("sign_up"), signup_path %></li>
         <% if logged_in? %>
           <li><%= link_to t("users"), current_user %></li>

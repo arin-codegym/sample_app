@@ -41,3 +41,4 @@ sample_app.iml
 config/settings.local.yml
 config/settings/*.local.yml
 config/environments/*.local.yml
+/vendor/cache
